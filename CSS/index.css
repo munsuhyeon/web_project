@@ -34,7 +34,7 @@
 
     header a:hover {
         text-decoration:none;/* 하이퍼링크 밑줄 삭제 */
-        color:#ffff00;/* 하이퍼링크 텍스트 컬러 노란색 변경 */
+        color:#FF7FDF;/* 하이퍼링크 텍스트 컬러 노란색 변경 */
         }/* 하이퍼링크 적용된 마우스포인터가 올라올때 텍스트가 노란색으로 표시 */
 
     header a:visited {
