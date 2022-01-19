@@ -1,0 +1,47 @@
+     header {
+        height:100px;
+        position:relative;
+    }
+
+    header #logo {
+        position:absolute;
+        top:10px;
+        left:5px;
+        font-family:"HY견고딕";
+        font-size:17px;
+    }
+
+    header #top_menu {
+        position:absolute;
+        top:10px;
+        left:740px;
+    }
+
+    header .line {
+        position:absolute;
+        top:50px;
+    }
+
+    header .line2 {
+        position:absolute;
+        top:65px;
+    }
+
+    header #top_menu a:link {
+        text-decoration:none;/* 하이퍼링크 밑줄 삭제 */
+        }/* 하이퍼링크 적용된 텍스트가 흰색으로 표시되고 밑줄이 삭제 */
+
+    header #top_menu a:hover {
+        text-decoration:none;/* 하이퍼링크 밑줄 삭제 */
+        color:#ffff00;/* 하이퍼링크 텍스트 컬러 노란색 변경 */
+        }/* 하이퍼링크 적용된 마우스포인터가 올라올때 텍스트가 노란색으로 표시 */
+
+    header #top_menu a:visited {
+        text-decoration:none;/* 하이퍼링크 밑줄 삭제 */
+        color:#ffffff;/* 하이퍼링크 텍스트 컬러 흰색 변경 */
+        }/* 하이퍼링크 적용된 텍스트가 방문이 된 경우 계속 흰색으로 표시 */
+
+    header #top_menu a:active {
+        text-decoration:none;/* 하이퍼링크 밑줄 삭제 */
+        color:#ffffff;/* 하이퍼링크 텍스트 컬러 흰색 변경 */
+        }/* 하이퍼링크 적용된 텍스트가 클릭되었을때 순간적으로 변경되는 색상 흰색으로 표시 */
