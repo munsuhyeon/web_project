@@ -1,0 +1,37 @@
+    footer #contact {
+        margin-left:30px;
+         position:relative;
+         top:25px;
+        font-size:30px;
+        font-family:"HY견고딕";
+    }
+
+    footer #sign_up {
+        position:relative;
+        left:680px;
+        bottom:50px;
+    }
+
+    #sign_up #email {
+    margin:10px 0 10px 10px;
+    }
+
+     #sign_up #info li{
+        position:relative;
+       right:645px;
+       bottom:20px;
+     }
+
+     #sign_up #subscibe {
+        margin-top:15px;
+     }
+
+     #posters #under_line {
+      margin-top:30px;
+     }
+
+     footer #footer_box {
+      text-align:center;
+      background-color: #00315B;
+      color:#FF7FDF;
+     }
